@@ -6,7 +6,7 @@ main:
     url: /tags/
   - title: "Categories"
     url: /categories/
-  - title: "Test"
-    url: /splash/
+  ##- title: "Test"
+  ##  url: /splash/
   #- title: "portfolio"
   #  url: /portfolio/
