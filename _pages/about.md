@@ -22,7 +22,7 @@ toc: true
 위기를 기회로 바꾸는 사람은 누구인가.<br>그것은 곧 포기하지 않는 사람이다.
 #### -William Somerset Maugham-
 ---
-## What am I do here
+## What am I doing here
 안녕하세요. 이 블로그는 제가 공부했던 내용을 정리하고 기록 하려고 만들었습니다.<br> 저는 아직 많이 부족하지만 많이 배우고 노력해서 훌륭한 개발자가 되고싶습니다. 잘 부탁 드립니다.<br>
 僕はこのブログを自分の勉強のために作りました。<br>僕はここでIT勉強をしながら自分の力量を育てたいと思っています。<br>
 - Web Programing Memo
@@ -41,5 +41,5 @@ toc: true
 
 ---
 ## 2020 Goal / 目標
-- to be a Develper
+- to be a Developer
 - 1D1C = One day One Coding
